@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/RockPaper/static/css/main.bb7f0ff5.css",
+    "main.js": "/RockPaper/static/js/main.cbcf1ce3.js",
+    "static/js/453.ed3810f9.chunk.js": "/RockPaper/static/js/453.ed3810f9.chunk.js",
+    "static/media/Scissor.png": "/RockPaper/static/media/Scissor.ccff8938c41fe874d4f3.png",
+    "static/media/Rock.png": "/RockPaper/static/media/Rock.857deab571aefb232db6.png",
+    "static/media/Paper.webp": "/RockPaper/static/media/Paper.fbf173be63a42626d854.webp",
+    "index.html": "/RockPaper/index.html",
+    "main.bb7f0ff5.css.map": "/RockPaper/static/css/main.bb7f0ff5.css.map",
+    "main.cbcf1ce3.js.map": "/RockPaper/static/js/main.cbcf1ce3.js.map",
+    "453.ed3810f9.chunk.js.map": "/RockPaper/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7f0ff5.css",
+    "static/js/main.cbcf1ce3.js"
+  ]
+}
